@@ -41,6 +41,8 @@ We plan to use the process output to identify vegetation fuel type, then combine
 
 === AlpS
 
+The alpS GmbH is an international engineering and consulting firm that supports companies, municipalities, and governments in their sustainable development and in dealing with the consequences, opportunities, and risks of climate change. Over the last 20 years alpS has worked with more than 250 municipalities and industrial partners. alpS accompanied a large number of adaptation cycles from vulnerability assessments to the implementation of adaptation measures and their evaluation. In the context of the pilot alpS aims at evaluating the inventory of methods applied in climate change adaptation workshops. Derived from this evaluation alpS will elaborate a guideline that helps to find a proper workshop-setup. alpS will illustrate the guideline with two to three best practice examples. As far as possible, alpS will test its findings in ongoing consultancies.
+
 === Intactlab
 
 === GISE Hub
